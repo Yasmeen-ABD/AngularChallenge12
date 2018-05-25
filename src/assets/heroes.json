@@ -117,7 +117,7 @@
       "Age":61,
       "Pouvoir":"Chevalier en armure",
       "Citation":"Pour l'honneur et la justice!!!",
-      "Photo":"Reinhart_portrait.png"
+      "Photo":"Reinhardt_portrait.png"
    },
    {
       "Id":16,
@@ -125,7 +125,7 @@
       "Age":48,
       "Pouvoir":"Apocalypse ambulante",
       "Citation":"Viens par ici que je te montre qui est le boss!",
-      "Photo":"Roadhog_portrait.png"
+      "Photo":"Roadhog_portrait_m.png"
    },
    {
       "Id":17,

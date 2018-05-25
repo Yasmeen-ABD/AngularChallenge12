@@ -828,7 +828,7 @@ body {
 }
 #header .container {
     background-color: #ed5137;
-    background-image: url("../../images/header_red_wave_full.png");
+    background-image: url("../images/header_red_wave_full.png");
     background-repeat: no-repeat;
     background-position: center top;
 }
@@ -849,7 +849,7 @@ body {
     color: #861b09;
 
     padding-right: 230px;
-    background-image: url("../../images/Reinhardt_portrait.png");
+    background-image: url("../images/Reinhardt_portrait.png");
     background-repeat: no-repeat;
     background-position: right top;
 }
@@ -904,7 +904,7 @@ body {
     color: #ffffff;
     font-size: 1.4em;
 
-    background-image: url("../../images/home_icon.png");
+    background-image: url("../images/home_icon.png");
     background-repeat: no-repeat;
     background-position: 4px 50%;
     line-height: 20px;
@@ -917,13 +917,13 @@ body {
     transition: all 0.2s ease-out;
 }
 #nav .menu .page_hom a {
-    background-image: url("../../images/home_icon.png");
+    background-image: url("../images/home_icon.png");
     height: 80px;
     text-indent: 6px;
 }
 
 #nav .menu .page_rec a {
-    background-image: url("../../images/recherche_icon.png");
+    background-image: url("../images/recherche_icon.png");
     height: 80px;
     text-indent: 6px;
 }
@@ -978,7 +978,7 @@ body {
     *display: inline;
     *zoom: 1;
     vertical-align: middle;
-    background-image: url("../img/hat.png");
+    /*background-image: url("../img/hat.png");*/
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 26px auto;
@@ -1036,7 +1036,7 @@ body {
 #footer .footer-hero {
     /*display: flex;*/
     height: 100%;
-    background-image: url("../../images/Mercy_portrait_flip.png");
+    background-image: url("../images/Mercy_portrait_flip.png");
     background-repeat: no-repeat;
     background-position: bottom left;
     background-size: contain;
@@ -1054,7 +1054,7 @@ body {
 #main {
 }
 #main .content {
-    background-image: url("../../images/paper-bg-pattern.jpg");
+    background-image: url("../images/paper-bg-pattern.jpg");
     background-color: #ffffff;
     padding: 30px 30px 60px 30px;
 }
@@ -1111,7 +1111,7 @@ body {
 }
 .overline-title .text {
     padding: 0 20px;
-    background-image: url("../img/paper-bg-pattern.jpg");
+    background-image: url("../images/paper-bg-pattern.jpg");
     white-space: nowrap;
     font-weight: normal;
     color: #861b09;
@@ -1128,7 +1128,7 @@ body {
     border-radius: 8px 0 8px 0;
 }
 .panel > .imgback {
-    background-image: url("../img/cookbook.png");
+    /*background-image: url("../img/cookbook.png");*/
     background-repeat: no-repeat;
     background-position: 10% 50%;
     /*background-size: contain;*/
@@ -1316,7 +1316,7 @@ body {
     left: 0;right: 0;
     z-index: 1;
 
-    background-image: url("../../images/hero_label_wave.png");
+    background-image: url("../images/hero_label_wave.png");
     background-repeat: no-repeat;
     background-position: top center;
 }
@@ -1414,7 +1414,7 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url("../img/kcal_energy.png");
+    /*background-image: url("../img/kcal_energy.png");*/
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -1607,7 +1607,7 @@ body {
 
 
 .newhero {
-    background-image: url("../../images/metalbanner.jpg");
+    background-image: url("../images/metalbanner.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1929,7 +1929,7 @@ body {
 #content_search {
 }
 #content_search .panel > .row {
-    background-image: url("../../images/favicon.png");
+    background-image: url("../images/favicon.png");
     /*
     background-repeat: no-repeat;
     background-position: 10% 50%;
